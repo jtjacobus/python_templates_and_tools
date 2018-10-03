@@ -5,7 +5,7 @@ import threading
 import os
 import pymysql
 
-conn = pymysql.connect(host='localhost', user='root', password='Lm19orange@22', db='honeybird')
+conn = pymysql.connect(host='localhost', user='root', password='********', db='*******')
 
 a = conn.cursor()
 
